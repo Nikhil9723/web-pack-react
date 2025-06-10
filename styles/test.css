@@ -1,0 +1,10 @@
+h1 {
+    color: blue;
+}
+
+button {
+    height: fit-content;
+    width: fit-content;
+    padding: 8px;
+    box-sizing: border-box;
+}
